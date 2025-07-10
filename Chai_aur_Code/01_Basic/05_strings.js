@@ -40,3 +40,8 @@ console.log(url.replace("%20", "-")); // https://www.shivam-pandey.com
 console.log (url.includes("sunder")); // true
 
 console.log(gameName.split("-")); // [ 'Call', 'of', 'Duty' ]
+
+
+
+// what is a string?
+// A string is a sequence of characters used to represent text in programming.

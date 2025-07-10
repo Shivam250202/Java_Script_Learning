@@ -35,3 +35,9 @@ const min = 10
 const max = 20;
 
 Math.random * (max - min +1) + min; // Random number between 10 and 20
+
+
+// What is a number and Math in JavaScript?
+// A number in JavaScript is a data type used to represent numeric values, including integers and floating-point numbers.
+// The Math object in JavaScript provides built-in mathematical functions and constants, such as trigonometric functions, logarithmic functions, and constants like Pi (Math.PI).
+// It allows developers to perform mathematical operations and calculations easily.

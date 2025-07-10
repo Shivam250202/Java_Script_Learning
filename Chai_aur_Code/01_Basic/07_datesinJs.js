@@ -27,3 +27,9 @@ console.log(newDate.getFullYear()); // Returns the year
 console.log(newDate.getMonth()); // Returns the month (0-11)    
 console.log(newDate.getDate()); // Returns the day of the month (1-31)
 console.log(newDate.getDay()); // Returns the day of the week (0-6)
+
+
+// What is a date in JavaScript?
+// A date in JavaScript is an object that represents a specific point in time, including the year, month, day, hour, minute, second, and millisecond.
+// The Date object provides methods to work with dates and times, allowing you to create, manipulate, and format dates in various ways.
+// The Date object is used to handle dates and times in JavaScript, providing methods for creating, manipulating, and formatting dates.

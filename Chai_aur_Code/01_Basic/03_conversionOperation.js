@@ -75,3 +75,7 @@ console.log(gameCounter);
 
 // link to study
 // https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
+
+// what is type conversion?
+// Type conversion is the process of converting a value from one data type to another.
+// In JavaScript, type conversion can be done explicitly using functions like Number(), String(), Boolean(), etc., or implicitly by the JavaScript engine when performing operations on values of different types.

@@ -19,3 +19,9 @@ accountCity = "Mumbai"
 console.log(accountId);
 
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
+
+
+// what is Variable?
+// A variable is a named storage location in a program that can hold a value.
+// It allows you to store, retrieve, and manipulate data during the execution of a program.
+

@@ -46,3 +46,10 @@ const user = {
 const addNum = (num1, num2) =>  ({username: "Shivam", sum: num1 + num2});
 
 console.log(addNum(4, 10)); // Output: 14
+
+
+
+// what is an arrow function?
+// An arrow function is a concise way to write function expressions in JavaScript.
+// It uses the arrow syntax (=>) and does not have its own 'this' context, meaning it inherits 'this' from the parent scope.
+// Arrow functions are often used for shorter function definitions and can make code more readable, especially when used as callbacks or in functional programming patterns.

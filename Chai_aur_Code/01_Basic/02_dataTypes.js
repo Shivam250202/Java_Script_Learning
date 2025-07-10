@@ -39,3 +39,9 @@ console.log(typeof state);  // undefined
 
 
 // objects = collection of key-value pairs
+
+
+
+// what is data type?
+// A data type is a classification that specifies which type of value a variable can hold.
+// It determines the kind of operations that can be performed on the data and how it is stored

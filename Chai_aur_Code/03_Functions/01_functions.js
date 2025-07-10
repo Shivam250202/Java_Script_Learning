@@ -79,3 +79,11 @@ function returnSecondValue (getArray){
 }
 console.log(returnSecondValue(myNewArray)); // Output: 200
 console.log(returnSecondValue([100, 200, 300, 400, 500])); // Output: 200
+
+
+// What is a function in JavaScript and why we use it and also how it works?
+// A function in JavaScript is a reusable block of code that performs a specific task or set of tasks.
+// Functions allow developers to encapsulate logic, making code more organized, modular, and easier to maintain.
+// Functions can take input parameters, perform operations, and return a value.
+// They are defined using the `function` keyword, followed by a name, parentheses for parameters, and a block of code enclosed in curly braces.
+// Functions can be invoked or called by their name, and they can also be assigned to variables or passed as arguments to other functions.
